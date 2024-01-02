@@ -1,6 +1,6 @@
 # Frontend-Projects
 
-<h2>Repository to store personal frontend projects</h2>
+<head>Repository to store personal frontend projects</head>
 
 <p>
   <em>
