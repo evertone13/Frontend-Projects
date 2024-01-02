@@ -9,3 +9,5 @@
     </h3>
   </em>
 </p>
+
+![HTML5](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
