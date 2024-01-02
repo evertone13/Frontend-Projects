@@ -10,4 +10,4 @@
   </em>
 </p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=plastic&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=html5&logoColor=ffffff)
