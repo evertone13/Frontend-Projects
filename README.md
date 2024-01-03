@@ -13,5 +13,10 @@
     </h3>
     <img width="1507" alt="스크린샷 2024-01-02 오후 10 48 14" src="https://github.com/evertone13/Frontend-Projects/assets/102230880/930caa7b-fcc0-4654-83d5-67a38051b242">
   </em>
+  <em>
+    <h3>
+      2. Quiz App
+    </h3>
+  </em>
 </p>
 
