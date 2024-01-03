@@ -17,7 +17,7 @@
     <h3>
       2. Quiz App
     </h3>
-    ![스크린샷 2024-01-03 오후 11 53 55](https://github.com/evertone13/Frontend-Projects/assets/102230880/ae1993cc-6817-48f0-9c49-ec5af67b868e)
+    <image width="1507" alt="스크린샷 2024-01-03 오후 11 53 55" src="https://github.com/evertone13/Frontend-Projects/assets/102230880/ae1993cc-6817-48f0-9c49-ec5af67b868e">
   </em>
 </p>
 
