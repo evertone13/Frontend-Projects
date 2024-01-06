@@ -1,0 +1,29 @@
+/* :root is used to define global variables, a pseudo-class which represents the highest level parent */
+:root{
+    --primary-clr: #b38add;
+}
+/* the asterisk *, represents a universal selector, which applies the following styles to every HTML doc*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex; 
+    align-items: center; /* adjusting along the "cross-axis" which is same as "y-axis"*/
+    justify-content: center; /* adjusting along the "main-axis" which is same as "x-axis"*/
+    background-color: #e2e1dc;
+}
+.container{
+    position: relative;
+    width: 1200px;
+    min-height: 850px;
+    margin: 0 auto;
+    padding: 5px;
+    color: #fff;
+    display: flex; /* becomes a flex container, with its children being flex items (can be horiz or verti aligned)*/
+    border-radius: 10px;
+    background-color: #373c4f;
+}
